@@ -1,4 +1,5 @@
- disp('Welcome to Quiz Section')
+%This is a quiz program
+disp('Welcome to Quiz Section')
  disp('Q1. What is the name of your School?')
  disp('a. SQI b. LAUTECH c. LICO')
  
