@@ -1,4 +1,4 @@
-%This is a quiz program
+%This is a quiz program for fundamental use
 disp('Welcome to Quiz Section')
  disp('Q1. What is the name of your School?')
  disp('a. SQI b. LAUTECH c. LICO')
